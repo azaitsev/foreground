@@ -2,6 +2,7 @@
 Choose black or white foreground color of text based on background color to get better contrast.
 W3C compliant.
 
+![example](https://raw.githubusercontent.com/azaitsev/foreground/master/example.png)
 
 ## Installation
 ```bash
